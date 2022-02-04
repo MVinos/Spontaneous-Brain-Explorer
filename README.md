@@ -10,7 +10,7 @@ The **main programs** consisting the whole ecosystem/platform are:
 
 
 ## Contact information:
-prof. Irini Skaliora
+prof. Irini Skaliora,
 webpage: (http://www.bioacademy.gr/lab/skaliora)
 
 Michael Vinos, PhD cand
